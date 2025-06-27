@@ -23,9 +23,9 @@ repository               : "seanmtelliott/seanmtelliott.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : #
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Toronto, ON"
   employer         : #"Red Brick University"
   uri              : # URL
